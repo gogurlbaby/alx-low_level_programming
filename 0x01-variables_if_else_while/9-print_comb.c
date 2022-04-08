@@ -1,3 +1,23 @@
-VimCrypt~03!·¨†t0ø˜rûB…FË|ë+üs¯·e“& »$¨¤ñV”¦ÑTW ·ÎK¼©U!+†õ
-Y[Öğ #iåcœ®ÏÅV*@v™xÀé­±µÔ3ƒç—…}¬ÿjê³~íD›ïoæädèğdIw>¨gbá‚‘ƒ…B 7÷´ßjEæ.ø]*dö]¯ËJ^©ñC$5.EN‹"½Ô«§YØ-ñ¬µW¬Õà±sˆ-³Ÿ
-,ó˜½´^÷œ~òşe[Ï´µPÆ]JN¹	¤Û›}=1tİnHÛ|—dp*LÿuËn×2áÜ]R5¨.Î8·aû7a4`ö2aoŸ­¦i~†Õ+{kS6jº'"¼-E€­sÔQK	oEG’‚FH!pËicfsŠ!9u÷‡ï7ı#pzBÓÍ5ÎkäÚJk?
+#include <stdio.h>
+/**
+ * main - entry point
+ *
+ * Return: alway returns 0
+ *
+ */
+int main(void)
+{
+	int i;
+
+	for (i = 10; i < 20; i++)
+	{
+		putchar((i % 10) + '0');
+		if (i != 19)
+		{
+			putchar(',');
+			putchar(' ');
+		}
+	}
+	putchar('\n');
+	return (0);
+}
