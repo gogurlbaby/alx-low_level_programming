@@ -14,7 +14,8 @@ int i, j, k, l;
 i = j = k = 48;
 l = 49;
 while  ((i < 58))
-{    putchar(i); 
+{ 
+     putchar(i); 
      putchar(j); 
      putchar(32); 
      putchar(k); 
