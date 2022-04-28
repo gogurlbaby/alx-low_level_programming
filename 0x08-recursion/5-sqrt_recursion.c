@@ -1,6 +1,6 @@
 /*
  * File: 5-sqrt_recursion.c
- * Auth: Prince Kofi Frimpong Amissah
+ * Auth: Philia Hammond
  */
 
 #include "main.h"

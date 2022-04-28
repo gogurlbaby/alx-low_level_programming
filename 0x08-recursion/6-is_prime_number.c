@@ -1,6 +1,6 @@
 /*
  * File: 6-is_prime_number.c
- * Auth: Prince Kofi Frimpong Amissah
+ * Auth: Philia Hammond
  */
 
 #include "main.h"

@@ -1,6 +1,6 @@
 /*
  * File: 100-is_palindrome.c
- * Auth: Prince Kofi Frimpong Amissah
+ * Auth: Philia Hammond
  */
 
 #include "main.h"
