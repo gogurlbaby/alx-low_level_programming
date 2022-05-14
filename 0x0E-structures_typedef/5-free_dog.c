@@ -1,4 +1,4 @@
-i#include "dog.h"
+#include "dog.h"
 
 /**
  * free_dog - frees dogs
